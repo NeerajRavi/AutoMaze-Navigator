@@ -1,0 +1,5 @@
+# Maze Q-Learning Project Requirements
+# Tested on Python 3.10+
+
+numpy>=1.24.0
+matplotlib>=3.7.0
